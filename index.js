@@ -1,6 +1,6 @@
 const  CiborgBOT2 = 'THEBOT'; // Nama Bot Whatsapp
 const instagram = 'https://www.instagram.com/gkasiklujembod/'; // Nama Instagramlu cok
-const nomer = 'https://Wa.me/+6283804910152'; // Nomor whatsapplu cok
+const nomer = 'https://Wa.me/+6283804910151'; // Nomor whatsapplu cok
 const aktif = 'Tergantung kuota'; // Kapan bot lu aktif
 const groupwa = 'comming soon'; // OFFICIAL GRUP LU 1
 const youtube = 'https://youtube.com/channel/UCVaVJVxqfQvdikIMSElXpBg'; 
