@@ -1,6 +1,6 @@
 {
-  "name": "XBOT",
-  "version": "1.0.0",
+  "name": "CIBORG",
+  "version": "2.0.0",
   "description": "khusus termux",
   "main": "index.js",
   "directories": {
